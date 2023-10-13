@@ -16,7 +16,7 @@ function typeWriter(){
     }
 }
 
-const ID =' d0f60974';
+const ID = 'd0f60974';
 const KEY = 'ad8664e63c1d23eacab527ab8b06d331';
 
 form.addEventListener('submit', (e)=>{
